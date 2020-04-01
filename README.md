@@ -1,8 +1,6 @@
 # DH150-AveryEdson
 Week01 Demo
 
-"Hello, world!"
+## it is fun!
 
-##it is fun!
-
-###smaller
+### Hello,world!
