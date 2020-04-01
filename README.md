@@ -6,3 +6,4 @@ Week01 Demo
 ### Hello,world!
 
 ![cdc homepage](./cdc-screenshot.png)
+[link to cdc](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
