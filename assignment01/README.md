@@ -11,15 +11,16 @@ Throughout my life, the public resource I have taken advantage of the most would
 ### Website 1: McLean High School
 https://mcleanhs.fcps.edu/
 ![mhs homepage](./MHS-screenshot.png)
-#### Motivation and Initial Evaluation:
 
+#### Initial Evaluation:
+The site seems to pack in a lot of useful information regarding the school, anticipating many users' queries. In this sense, the site presents a good understanding of what content its users desire, however, there is a great lack of organization. For example, the global navigation menu in the header is quite straightforward, but once you click on it, the site takes you to a new page where the subpages are listed, which then take you to subsquent pages with more subpages. This is tedious to navigate through, and requires the user to maneuver back and forth between pages in search of the desired one. Additionally, there are navigation links on the homepage that seem to be a random assortment of topics. I am assuming such are common links used by the daily user, however, this would certainly confuse a new user. The biggest issue with this site is it lacks the organization/consolidation of information, speficically regarding its subpages, which reduces user accessibility. 
 
 #### Heuristic Evaluation:
 
 ### Website 2: Dolley Madison Library
 https://www.fairfaxcounty.gov/library/branches/dolley-madison
-![dolleymadisonlib homepage](./MHS-screenshot.png)
+![dolleymadisonlib homepage](./dolleymadisonlib-screenshot.png)
 
-#### Motivation and Initial Evaluation:
+#### Initial Evalution:
 
 #### Heuristic Evaluation:
