@@ -2,7 +2,7 @@
 
 ## DH150 Assignment01: Heuristic Evaluation of "Public" Websites by Avery Edson
 
-### Overall Motivation and Description:
+### Overall Motivation:
 
 When I think of public entities, the US public education system immediately comes to mind. It's run by state/local governments, funded by community taxpayers, and attended by the nation's youth; it concerns people as a whole. The term itself, "public" education, implies it is made available to all. And so, given the project theme of "public", I have first decided to focus on public education, specifically my own. Thus, the first website I have chosen is the website for the public high school I attended, McLean High School. 
 
@@ -15,12 +15,33 @@ https://mcleanhs.fcps.edu/
 #### Initial Evaluation:
 The site seems to pack in a lot of useful information regarding the school, anticipating many users' queries. In this sense, the site presents a good understanding of what content its users desire, however, there is a great lack of organization. For example, the global navigation menu in the header is quite straightforward, but once you click on it, the site takes you to a new page where the subpages are listed, which then take you to subsquent pages with more subpages. This is tedious to navigate through, and requires the user to maneuver back and forth between pages in search of the desired one. Additionally, there are navigation links on the homepage that seem to be a random assortment of topics. I am assuming such are common links used by the daily user, however, this would certainly confuse a new user. The biggest issue with this site is it lacks the organization/consolidation of information, speficically regarding its subpages, which reduces user accessibility. 
 
-#### Heuristic Evaluation:
-
 ### Website 2: Dolley Madison Library
 https://www.fairfaxcounty.gov/library/branches/dolley-madison
 ![dolleymadisonlib homepage](./dolleymadisonlib-screenshot.png)
 
-#### Initial Evalution:
+#### Initial Evaluation:
 
-#### Heuristic Evaluation:
+
+### Heuristic Evaluation:
+
+#### 1: Visibility of system status
+
+#### 2: Match between system and the real world
+
+#### 3: User control and freedom
+
+#### 4: Consistency and standards
+
+#### 5: Error prevention
+
+#### 6: Recognition rather than recall
+
+#### 7: Flexibility and efficiency of use
+
+#### 8: Aesthetic and minimalist design
+
+#### 9: Help users recognize, diagnose, and recover from errors
+
+#### 10: Help and documentation
+
+
