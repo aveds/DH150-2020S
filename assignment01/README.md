@@ -8,7 +8,7 @@ When I think of public entities, the US public education system immediately come
 
 ### Website 1: McLean High School
 https://mcleanhs.fcps.edu/
-![MHS homepage](./npr-screenshot.png)
+![MHS homepage](./MHS-screenshot.png)
 
 [initial evaluation]
 [link]
