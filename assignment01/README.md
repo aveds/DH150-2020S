@@ -9,10 +9,13 @@ When I think of public entities, the US public education system immediately come
 ### Website 1: McLean High School
 https://mcleanhs.fcps.edu/
 ![MHS homepage](./MHS-screenshot.png)
+#### Motivation and Initial Evaluation:
 
-[initial evaluation]
-[link]
-[screenshot]
-[heuristic evaluation]
+
+#### Heuristic Evaluation:
 
 ### Website 2: University of California, Los Angeles (UCLA)
+
+#### Motivation and Initial Evaluation:
+
+#### Heuristic Evaluation:
