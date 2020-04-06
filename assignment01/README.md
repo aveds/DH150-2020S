@@ -1,4 +1,4 @@
-# [Tentative title of project]
+# UX Design of High School Experiences
 
 ## DH150 Assignment01: Heuristic Evaluation of "Public" Websites by Avery Edson
 
@@ -8,7 +8,7 @@ When I think of public entities, the US public education system immediately come
 
 Throughout my life, the public resource I have taken advantage of the most would have to be libraries. Public libraries are accessible by the general public, funded by public sources. They provide the community greatly with information, services, and technology, whether it be for recreational or educational purposes. And so, for this project I will revisit the library I frequented the most while in high school. The second website I have chosen is the website for the Dolley Madison Library.
 
-### Website 1: McLean High School
+### Website 1: McLean High School (MHS)
 https://mcleanhs.fcps.edu/
 ![mhs homepage](./MHS-screenshot.png)
 
@@ -25,23 +25,43 @@ https://www.fairfaxcounty.gov/library/branches/dolley-madison
 ### Heuristic Evaluation:
 
 #### 1: Visibility of system status
+##### MHS
+##### Dolley Madison 
 
 #### 2: Match between system and the real world
+##### MHS
+##### Dolley Madison 
 
 #### 3: User control and freedom
+##### MHS
+##### Dolley Madison 
 
 #### 4: Consistency and standards
+##### MHS
+##### Dolley Madison 
 
 #### 5: Error prevention
+##### MHS
+##### Dolley Madison 
 
 #### 6: Recognition rather than recall
+##### MHS
+##### Dolley Madison 
 
 #### 7: Flexibility and efficiency of use
+##### MHS
+##### Dolley Madison 
 
 #### 8: Aesthetic and minimalist design
+##### MHS
+##### Dolley Madison 
 
 #### 9: Help users recognize, diagnose, and recover from errors
+##### MHS
+##### Dolley Madison 
 
 #### 10: Help and documentation
+##### MHS
+##### Dolley Madison 
 
 
