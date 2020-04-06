@@ -1,3 +1,4 @@
 # Tentative title of project
 
-## by Avery Edson
+### DH150 Assignment01: Heuristic Evaluation of "Public" Websites
+### Avery Edson
