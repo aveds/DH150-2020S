@@ -44,7 +44,7 @@ https://www.fairfaxcounty.gov/library/branches/dolley-madison
 
 +Navigation links include common phrases that are clear and concise, improving the user's understanding of what to expect if they click it.
 
--The "Features" page relays what is going on lately at the school like short news highlights. The term "features" does not accurately represent this.
+-The "Features" page relays what is going on lately at the school like short news highlights. The term "features" does not accurately represent this. Some headings do not accurately represent the information within the page, and so the user won't know what to expect.
 
 -System-oriented terms in the homepage will confuse new users.
 
@@ -79,7 +79,7 @@ https://www.fairfaxcounty.gov/library/branches/dolley-madison
 
 +The site checks with the user if they are sure they wish to leave the page. This prevents the user from losing any information they might not want tot delete.
 
--The site does not inform or ask the user if they are sure they wish to leave the site when clicking links that redirect to an external site.
+-The site does not inform or ask the user if they are sure they wish to leave the McLean High School website when clicking links that redirect to an external site.
 ##### Dolley Madison 
 
 #### 6: Recognition rather than recall
@@ -87,6 +87,8 @@ https://www.fairfaxcounty.gov/library/branches/dolley-madison
 +The search bar suggests search options that the user has previously searched, reminding the user what they had searched before.
 
 +When navigating through the site, the header (within the "Full Menu") that the user's current page falls under is highlighted. This allows the user to remember how they navigated the site to reach the page they are on.
+
+-Navigation links don't stay highlighted once the user has visited the linked page, not allowing the user to recognize which pages they have previously visited.
 ##### Dolley Madison 
 
 #### 7: Flexibility and efficiency of use
@@ -97,26 +99,24 @@ https://www.fairfaxcounty.gov/library/branches/dolley-madison
 
 #### 8: Aesthetic and minimalist design
 ##### MHS
-+ 
-+
--
--
++ Most pages on the site do decent job of including the necessary minimal information, getting straight to the point of what the page is relaying. Not overly text heavy.
+
+-Although most pages aren't overly text heavy, they require reformatting to organize information. This will increase usability as the user will be able to better follow each page. Reformatting will additionally increase aesthetic design.
+
+-Design of the entire website can be further minimalized by consolidating information into clear subheadings and by reducing the amount of irrelevant graphics (and also irrelevant captions).
 ##### Dolley Madison 
 
 #### 9: Help users recognize, diagnose, and recover from errors
 ##### MHS
-+
-+
--
--
++/-The contact form will display reasons for error when an invalid response is attempted to be submitted. The error message simply states the error for some fields, whereas for others, specifically the "Message" field, the error message states what is wrong and what must be fixed: "Message must be longer than 16 characters but is currently 5 characters long".
+
++The search bar will display suggestions for what to change in the user's query if their original search came up with no results. "Search suggestions: check your spelling, try more general words, and try different words with the same meaning."
+
 ##### Dolley Madison 
 
 #### 10: Help and documentation
 ##### MHS
-+
-+
--
--
++The search bar allows user's to type in own questions, producing fairly helpful results. For example, I searched "how to excuse an absence," and the results guided me to the "Attendance" page with a detailed step-by-step set of instructions of what to do.
 ##### Dolley Madison 
 
 
