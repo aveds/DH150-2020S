@@ -18,8 +18,11 @@ The site seems to pack in a lot of useful information regarding the school, anti
 ### Website 2: Dolley Madison Library
 https://www.fairfaxcounty.gov/library/branches/dolley-madison
 ![dolleymadisonlib homepage](./dolleymadisonlib-screenshot.png)
+https://www.fairfaxcounty.gov/library/
+![lib homepage](./lib-screenshot.png)
 
 #### Initial Evaluation:
+The site for the Dolley Madison Library is branched off the website for the local Fairfax County government (fairfaxcounty.gov). 
 
 
 ### Heuristic Evaluation:
