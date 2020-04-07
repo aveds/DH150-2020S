@@ -46,7 +46,7 @@ The Santa Monica Public Library website appears to be quite organized with its h
 
 -When using the site's search feature, it is difficult to discern whether the system is still loading or has completed the search when there are no results found. This is because there is a blue bar at the top resembling a loading bar that remains when the search is complete. This suggests to the user that the system is still loading, when in fact the search is completed and no results were found.
 #### 2: Match between system and the real world
-**_MHS_**
+##### MHS
 
 +Familiar icons and infographics contribute to user understanding. 
 
