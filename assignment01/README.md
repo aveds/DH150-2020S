@@ -84,29 +84,39 @@ https://www.fairfaxcounty.gov/library/branches/dolley-madison
 
 #### 6: Recognition rather than recall
 ##### MHS
-+
++The search bar suggests search options that the user has previously searched, reminding the user what they had searched before.
 
-+
-
--
-
--
++When navigating through the site, the header (within the "Full Menu") that the user's current page falls under is highlighted. This allows the user to remember how they navigated the site to reach the page they are on.
 ##### Dolley Madison 
 
 #### 7: Flexibility and efficiency of use
 ##### MHS
++/-On the homepage, there are additional navigation links presented within a subheader. "FCPS 24-7 Learning" is the school's system CCLE, and so I assume these are frequently visited links that are presented on the homepage for quick access. This is convenient for the expert user who understands what these system-oriented terms are. This may, however, confuse inexperienced users who don't understand what these links are.
+
 ##### Dolley Madison 
 
 #### 8: Aesthetic and minimalist design
 ##### MHS
++ 
++
+-
+-
 ##### Dolley Madison 
 
 #### 9: Help users recognize, diagnose, and recover from errors
 ##### MHS
++
++
+-
+-
 ##### Dolley Madison 
 
 #### 10: Help and documentation
 ##### MHS
++
++
+-
+-
 ##### Dolley Madison 
 
 
