@@ -15,15 +15,13 @@ https://mcleanhs.fcps.edu/
 #### Initial Evaluation:
 The site seems to pack in a lot of useful information regarding the school, anticipating many users' queries. In this sense, the site presents a good understanding of what content its users desire, however, there is a great lack of organization. For example, the global navigation menu in the header is quite straightforward, but once you click on it, the site takes you to a new page where the subpages are listed, which then take you to subsquent pages with more subpages. This is tedious to navigate through, and requires the user to maneuver back and forth between pages in search of the desired one. Additionally, there are navigation links on the homepage that seem to be a random assortment of topics. I am assuming such are common links used by the daily user, however, this would certainly confuse a new user. The biggest issue with this site is it lacks the organization/consolidation of information, speficically regarding its subpages, which reduces user accessibility. 
 
-### Website 2: Dolley Madison Library
-https://www.fairfaxcounty.gov/library/branches/dolley-madison
-![dolleymadisonlib homepage](./dolleymadisonlib-screenshot.png)
-https://www.fairfaxcounty.gov/library/
+### Website 2: Fairfax County Library
+https://fcplcat.fairfaxcounty.gov/default.aspx
 ![lib homepage](./lib-screenshot.png)
 
 #### Initial Evaluation:
 
-The Fairfax County Library website seems to be quite organized, relaying useful information without too much congested text. There seem to be many ways the user can interact with the site, so the evaluation will largely entail assessing the usability and functionality of these features.
+The Fairfax County Library website seems to be quite organized, relaying useful information without too much congested text. The catalog is readily available at the top of the page, relaying good UX design as this is generally the first feature users will use when visiting a library site. There seem to be many ways the user can interact with the site, so the evaluation will largely entail assessing the usability and functionality of these features. Additionally, at first glance, I noticed certain link headings will need to be revised to be made more clear and concise.
 
 ### Heuristic Evaluation:
 
@@ -38,7 +36,7 @@ The Fairfax County Library website seems to be quite organized, relaying useful 
 -Only some navigation links will be highlighted/indicated when hovering over them. This allows the user to know they may interact with the link, however, consistency is required.
 
 -There is no visualization that relays to the user a page is loading.
-##### Dolley Madison 
+##### Fairfax County Library
 +/-Navigation links are dynamic when the user hovers over them. They are either highlighted or underlined, indicating the site is responding to the users movements. Most links have this feature, but there are some inconsistencies that need to be corrected.
 
 +When viewing search results for upcoming events, the site indicates which type of calendar view the results are displayed in. There is also a loading symbol that displays while the system is searching.
@@ -56,7 +54,7 @@ The Fairfax County Library website seems to be quite organized, relaying useful 
 -System-oriented terms in the homepage will confuse new users.
 
 -Titles of the site and subpages are found on the right side of the page. This is illogical as users are accustomed to reading from left to right. 
-##### Dolley Madison 
+##### Fairfax County Library
 
 #### 3: User control and freedom
 ##### MHS
@@ -67,7 +65,7 @@ The Fairfax County Library website seems to be quite organized, relaying useful 
 +The site allows the user to access and exit the "Full Menu" navigation bar without losing the page they were on. The user can also maneuver back and forth between subpage headers in the navigation bar using a back arrow.
 
 -When changing the language, the site changes everything including the language options for changing the language. For example, I changed the language to Arabic and wanted to change it back to English, however, I could not distinguish which language was English in the dropdown list because all the options were written in Arabic. The site does not support undoing a change of language easily.
-##### Dolley Madison 
+##### Fairfax County Library 
 
 #### 4: Consistency and standards
 ##### MHS
@@ -78,7 +76,7 @@ The Fairfax County Library website seems to be quite organized, relaying useful 
 -There is a difference in the navigation headings of the main menu displayed on the homepage and of the extended "Full Menu". This could confuse users as to which links lead to which pages.
 
 -There is a difference in box colors in the announcements sections, leaving users to wonder whether this has any meaning.
-##### Dolley Madison 
+##### Fairfax County Library
 
 #### 5: Error prevention
 ##### MHS
@@ -87,7 +85,7 @@ The Fairfax County Library website seems to be quite organized, relaying useful 
 +The site checks with the user if they are sure they wish to leave the page. This prevents the user from losing any information they might not want tot delete.
 
 -The site does not inform or ask the user if they are sure they wish to leave the McLean High School website when clicking links that redirect to an external site.
-##### Dolley Madison 
+##### Fairfax County Library
 
 #### 6: Recognition rather than recall
 ##### MHS
@@ -96,13 +94,13 @@ The Fairfax County Library website seems to be quite organized, relaying useful 
 +When navigating through the site, the header (within the "Full Menu") that the user's current page falls under is highlighted. This allows the user to remember how they navigated the site to reach the page they are on.
 
 -Navigation links don't stay highlighted once the user has visited the linked page, not allowing the user to recognize which pages they have previously visited.
-##### Dolley Madison 
+##### Fairfax County Library 
 
 #### 7: Flexibility and efficiency of use
 ##### MHS
 +/-On the homepage, there are additional navigation links presented within a subheader. "FCPS 24-7 Learning" is the school's system CCLE, and so I assume these are frequently visited links that are presented on the homepage for quick access. This is convenient for the expert user who understands what these system-oriented terms are. This may, however, confuse inexperienced users who don't understand what these links are.
 
-##### Dolley Madison 
+##### Fairfax County Library
 
 #### 8: Aesthetic and minimalist design
 ##### MHS
@@ -111,7 +109,7 @@ The Fairfax County Library website seems to be quite organized, relaying useful 
 -Although most pages aren't overly text heavy, they require reformatting to organize information. This will increase usability as the user will be able to better follow each page. Reformatting will additionally increase aesthetic design.
 
 -Design of the entire website can be further minimalized by consolidating information into clear subheadings and by reducing the amount of irrelevant graphics (and also irrelevant captions).
-##### Dolley Madison 
+##### Fairfax County Library 
 
 #### 9: Help users recognize, diagnose, and recover from errors
 ##### MHS
@@ -119,11 +117,11 @@ The Fairfax County Library website seems to be quite organized, relaying useful 
 
 +The search bar will display suggestions for what to change in the user's query if their original search came up with no results. "Search suggestions: check your spelling, try more general words, and try different words with the same meaning."
 
-##### Dolley Madison 
+##### Fairfax County Library 
 
 #### 10: Help and documentation
 ##### MHS
 +The search bar allows user's to type in own questions, producing fairly helpful results. For example, I searched "how to excuse an absence," and the results guided me to the "Attendance" page with a detailed step-by-step set of instructions of what to do.
-##### Dolley Madison 
+##### Fairfax County Library
 
 
