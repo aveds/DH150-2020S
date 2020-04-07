@@ -22,8 +22,7 @@ https://www.fairfaxcounty.gov/library/
 ![lib homepage](./lib-screenshot.png)
 
 #### Initial Evaluation:
-The site for the Dolley Madison Library is branched off the website for the local Fairfax County government (fairfaxcounty.gov). 
-
+The site for the Dolley Madison Library is simply a page extension of the website for the local Fairfax County government (fairfaxcounty.gov). And so, I will do the heuristic evaluation for the entire library department extension of the fairfaxcounty.gov website. The Fairfax County Library website seems to be quite organized, relaying useful information without too much congested text. There seem to be many ways the user can interact with the site, so the evaluation will largely entail assessing the usability and functionality of these features.
 
 ### Heuristic Evaluation:
 
