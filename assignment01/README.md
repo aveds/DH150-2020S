@@ -143,7 +143,7 @@ The Santa Monica Public Library website appears to be quite organized with its h
 
 #### 8: Aesthetic and minimalist design
 ##### MHS
-+ Most pages on the site do decent job of including the necessary minimal information, getting straight to the point of what the page is relaying. Not overly text heavy.
++Most pages on the site do decent job of including the necessary minimal information, getting straight to the point of what the page is relaying. Not overly text heavy.
 
 -Although most pages aren't overly text heavy, they require reformatting to organize information. This will increase usability as the user will be able to better follow each page. Reformatting will additionally increase aesthetic design.
 
