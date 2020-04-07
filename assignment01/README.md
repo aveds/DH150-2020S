@@ -6,7 +6,7 @@
 
 When I think of public entities, the US public education system immediately comes to mind. It's run by state/local governments, funded by community taxpayers, and attended by the nation's youth; it concerns people as a whole. The term itself, "public" education, implies it is made available to all. And so, given the project theme of "public", I have first decided to focus on public education, specifically my own. Thus, the first website I have chosen is the website for the public high school I attended, McLean High School. 
 
-Throughout my life, the public resource I have taken advantage of the most would have to be libraries. Public libraries are accessible by the general public, funded by public sources. They provide the community greatly with information, services, and technology, whether it be for recreational or educational purposes. And so, for this project I will revisit the library I frequented the most while in high school. The second website I have chosen is the website for the Dolley Madison Library.
+Throughout my life, the public resource I have taken advantage of the most would have to be libraries. Public libraries are accessible by the general public, funded by public sources. They provide the community greatly with information, services, and technology, whether it be for recreational or educational purposes. And so, for this project I will revisit the libraries I frequented the most while in high school. The second website I have chosen is the website for the Fairfax County Library System.
 
 ### Website 1: McLean High School (MHS)
 https://mcleanhs.fcps.edu/
@@ -22,7 +22,8 @@ https://www.fairfaxcounty.gov/library/
 ![lib homepage](./lib-screenshot.png)
 
 #### Initial Evaluation:
-The site for the Dolley Madison Library is simply a page extension of the website for the local Fairfax County government (fairfaxcounty.gov). And so, I will do the heuristic evaluation for the entire library department extension of the fairfaxcounty.gov website. The Fairfax County Library website seems to be quite organized, relaying useful information without too much congested text. There seem to be many ways the user can interact with the site, so the evaluation will largely entail assessing the usability and functionality of these features.
+
+The Fairfax County Library website seems to be quite organized, relaying useful information without too much congested text. There seem to be many ways the user can interact with the site, so the evaluation will largely entail assessing the usability and functionality of these features.
 
 ### Heuristic Evaluation:
 
@@ -38,7 +39,11 @@ The site for the Dolley Madison Library is simply a page extension of the websit
 
 -There is no visualization that relays to the user a page is loading.
 ##### Dolley Madison 
++/-Navigation links are dynamic when the user hovers over them. They are either highlighted or underlined, indicating the site is responding to the users movements. Most links have this feature, but there are some inconsistencies that need to be corrected.
 
++When viewing search results for upcoming events, the site indicates which type of calendar view the results are displayed in. There is also a loading symbol that displays while the system is searching.
+
++The chat feature, which allows the user to interact with a real library representative, displays messages indicating the activity of the representative as well as whether the user is connected/disconnected.
 
 #### 2: Match between system and the real world
 ##### MHS
