@@ -47,7 +47,7 @@ The Santa Monica Public Library website appears to be quite organized with its h
 -When searching within the catalog off of the homepage, there is nothing signaling to the user that the system has registered/is loading their search. It also takes a couple seconds, and so it would be helpful to have some sort of visibility here. __(2)__
 
 -When using the site's search feature, it is difficult to discern whether the system is still loading or has completed the search when there are no results found. This is because there is a blue bar at the top resembling a loading bar that remains when the search is complete. This suggests to the user that the system is still loading, when in fact the search is completed and no results were found. __(2)__
-![smpl1](./smpl - 1.png)
+![smpl1](./smpl-1.png)
 #### 2: Match between system and the real world
 ##### MHS
 
