@@ -47,6 +47,7 @@ The Santa Monica Public Library website appears to be quite organized with its h
 -When searching within the catalog off of the homepage, there is nothing signaling to the user that the system has registered/is loading their search. It also takes a couple seconds, and so it would be helpful to have some sort of visibility here. __(2)__
 
 -When using the site's search feature, it is difficult to discern whether the system is still loading or has completed the search when there are no results found. This is because there is a blue bar at the top resembling a loading bar that remains when the search is complete. This suggests to the user that the system is still loading, when in fact the search is completed and no results were found. __(2)__
+![smpl1](./smpl - 1.png)
 #### 2: Match between system and the real world
 ##### MHS
 
@@ -69,6 +70,7 @@ The Santa Monica Public Library website appears to be quite organized with its h
 -The subpages are not necessarily grouped logically under each header. For example, the user would not think to find linkes for "Local History" and "Computer Classes" under the header "Research." __(3)__
 
 -The homepage lists the information for the main library adjacent to the information for its branches. Instead of labelling the branch libraries with the actual term "branches," the site simply lists the street names. A new user will be confused as to what these are, and so the site should indicate these are branches of the main library. __(2)__
+![smpl2](./smpl - 2.png)
 #### 3: User control and freedom
 ##### MHS
 +The site allows the user to access and exit the search bar without leaving the page they were previously on. 
@@ -78,6 +80,7 @@ The Santa Monica Public Library website appears to be quite organized with its h
 +The site allows the user to access and exit the "Full Menu" navigation bar without losing the page they were on. The user can also maneuver back and forth between subpage headers in the navigation bar using a back arrow.
 
 -When changing the language, the site changes everything including the language options for changing the language. For example, I changed the language to Arabic and wanted to change it back to English, however, I could not distinguish which language was English in the dropdown list because all the options were written in Arabic. The site does not support undoing a change of language easily. __(3)__
+![mhs1](./mhs - 1.png)
 ##### Santa Monica Public Library 
 +The search function allows users to easily modify their search without having to conduct a whole new search.
 
