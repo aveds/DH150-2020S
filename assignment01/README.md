@@ -84,7 +84,9 @@ The Santa Monica Public Library website appears to be quite organized with its h
 +The site allows the user to access and exit the "Full Menu" navigation bar without losing the page they were on. The user can also maneuver back and forth between subpage headers in the navigation bar using a back arrow.
 
 -When changing the language, the site changes everything including the language options for changing the language. For example, I changed the language to Arabic and wanted to change it back to English, however, I could not distinguish which language was English in the dropdown list because all the options were written in Arabic. The site does not support undoing a change of language easily. __(3)__
+
 ![mhs1](./mhs-1.png)
+
 ##### Santa Monica Public Library 
 +The search function allows users to easily modify their search without having to conduct a whole new search.
 
@@ -166,6 +168,7 @@ The Santa Monica Public Library website appears to be quite organized with its h
 -There are multiple ways/links to access the same pages and information, and so this should be consolidated to minimalize the design. __(3)__
 
 -Unaesthetic grey space on the sides of the body of the website. This is also inconsistent as this space disappears when venturing to the library's catalog. __(3)__
+
 ![smpl2](./smpl-3.png)
 
 #### 9: Help users recognize, diagnose, and recover from errors
