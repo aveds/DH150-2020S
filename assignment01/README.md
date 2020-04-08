@@ -72,7 +72,9 @@ The Santa Monica Public Library website appears to be quite organized with its h
 -The subpages are not necessarily grouped logically under each header. For example, the user would not think to find linkes for "Local History" and "Computer Classes" under the header "Research." __(3)__
 
 -The homepage lists the information for the main library adjacent to the information for its branches. Instead of labelling the branch libraries with the actual term "branches," the site simply lists the street names. A new user will be confused as to what these are, and so the site should indicate these are branches of the main library. __(2)__
+
 ![smpl2](./smpl-2.png)
+
 #### 3: User control and freedom
 ##### MHS
 +The site allows the user to access and exit the search bar without leaving the page they were previously on. 
@@ -164,6 +166,8 @@ The Santa Monica Public Library website appears to be quite organized with its h
 -There are multiple ways/links to access the same pages and information, and so this should be consolidated to minimalize the design. __(3)__
 
 -Unaesthetic grey space on the sides of the body of the website. This is also inconsistent as this space disappears when venturing to the library's catalog. __(3)__
+![smpl2](./smpl-3.png)
+
 #### 9: Help users recognize, diagnose, and recover from errors
 ##### MHS
 +/-The contact form will display reasons for error when an invalid response is attempted to be submitted. The error message simply states the error for some fields, whereas for others, specifically the "Message" field, the error message states what is wrong and what must be fixed: "Message must be longer than 16 characters but is currently 5 characters long". __(1)__
