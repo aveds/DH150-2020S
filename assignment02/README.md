@@ -1,6 +1,7 @@
 # UX Design of a Public Library 
 
-### DH150 Assignment02: Usability Testing (UT) of the Santa Monica Public Library Website by Avery Edson
+### DH150 Assignment02: Usability Testing (UT) of the Santa Monica Public Library Website 
+by Avery Edson
 
 #### Introduction: What is the purpose of UT?
 
