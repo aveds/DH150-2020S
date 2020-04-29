@@ -34,7 +34,7 @@ To find out what resources the library has available, users would search through
 ### 3) Describe research method and plan
 The research method I employed is contextual inquiry. This method includes observation, participation, and an interview. The research materials used can be found in the next section.
 
-### 4) Research materials:
+### 4) Research materials
 
 #### Contextual Inquiry Guide
 Please find the **script** for this interview [here](https://docs.google.com/document/d/1eDBNlqgkri3PVL32RvST1tFikwtDXpVBQSXWEW9VVZo/edit?usp=sharing), with an introduction, goals, and contextual questions.
