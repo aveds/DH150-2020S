@@ -36,8 +36,19 @@ The research method I employed is contextual inquiry. This method includes obser
 
 ### 4) Research materials:
 
-#### a) Contextual Inquiry Guide:
+#### Contextual Inquiry Guide
 Please find the **script** for this interview [here](https://docs.google.com/document/d/1eDBNlqgkri3PVL32RvST1tFikwtDXpVBQSXWEW9VVZo/edit?usp=sharing), with an introduction, goals, and contextual questions.
+
+#### User Data
+Please find the **recording** of the interview [here]() and the **transcription** of the interview [here]().
+
+#### Interesting quotes from the interview:
+
+### 5) Reflection
+
+
+
+
 
 
 
