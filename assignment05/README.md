@@ -8,8 +8,22 @@ The purpose of UX storytelling is to understand the user; it allows design teams
 
 ### Kathy Chen
 
-![Kathy Persona](./Letter - 1.png)
+![Kathy Persona](./Letter-1.png)
+![Kathy Empathy](./Letter-2.png)
+![Kathy Scenario](./Letter-7.png)
+![Kathy Journey](./Letter-10.png)
+
 
 ### Chris Hayes
 
+![Chris Persona](./Letter-3.png)
+![Chris Empathy](./Letter-4.png)
+![Chris Scenario](./Letter-8.png)
+![Chris Journey](./Letter-11.png)
+
 ### Amy Ngai
+
+![Amy Persona](./Letter-5.png)
+![Amy Empathy](./Letter-6.png)
+![Amy Scenario](./Letter-9.png)
+![Amy Journey](./Letter-12.png)
