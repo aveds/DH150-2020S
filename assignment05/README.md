@@ -8,7 +8,7 @@ The purpose of UX storytelling is to understand the user; it allows design teams
 
 ### Kathy Chen
 
-![KathyPersona](./Letter - 1.png)
+![Kathy Persona](./Letter - 1.png)
 
 ### Chris Hayes
 
