@@ -41,7 +41,8 @@ The purpose of this low-fidelity prototyping is to translate the concepts I have
 ![wireflow](./Group5.png)
 
 #### User interactions:
-![colors](./Legend.png)
+<img src="./Legend.png" width="300">
+
 ![user](./Group6.png)
 
 --- 
