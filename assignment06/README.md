@@ -4,7 +4,7 @@
 
 ---
 
-#### Description:
+#### Description of project:
 
 For this project, I have chosen to redesign the Santa Monica Public Library website. The Santa Monica Public Library consists of one main library and four additional library branches, all located in Santa Monica, California. Given that it is for the public, the Santa Monica library serves many purposes for a wide range of users. Rather than try to incorporate them all within my redesign, I have chosen to focus on the most used website features across these user groups for the purposes of this project.
 Given the current pandemic, it was difficult to conduct extensive user research to properly understand which of the library's website features are the most used. Based on the research I was able to gather and on my own previous experiences, I concluded that many users visit the library website to search within the library's catalog. This is the first feature I will focus on. Many users then visit the website to find out information regarding the library, as in what is its hours, what services does it provide, what programs does it host, etc. I understand this is quite a vague statement, but again, I am trying to encapsulate as many users within my understanding of the website, and it seems most users intend to read information when visiting the website.  Thus, the second feature I will focus on is the organization of information across the website's pages, including their titles and content. Additionally, to find the information they are looking for, many users will defer to a site's search function, rather than exploring each tab. And so, the third aspect I will focus on is the site's search feature.
@@ -42,3 +42,6 @@ The purpose of this low-fidelity prototyping is to translate the concepts I have
 
 #### User interactions:
 ![user](./Group6.png)
+
+--- 
+### Reflection:
