@@ -18,23 +18,29 @@ The tasks this high-fidelity prototype supports are:
 
 Below are the wireframes created to complete each task.
 
-#### Task 1: Reserve a study room 
+#### First iteration
 
-###### (First Iteration)
+##### Task 1: Reserve a study room
 
 ![task1_1](./first.png)
 
 This is the first iteration of my design for the library website. Personally, I didn't entirely like the color scheme I used in this first version and ended up changing the color scheme to make it simpler, including more neutral dominant colors (white and grey) and only one accent color (periwinkle). In class, I conducted an **impression test** on this first version, in which my classmates provided their initial thoughts when viewing these wireframes. The first comment I received was that the wireframes certainly look like a library website. This is a good thing: it is clear what one should expect when viewing the site. However, I wanted to make my library website a bit more exciting, especially when it came to the homepage as this is the first screen users interact with. I wanted users to be more intrigued/impressed by the homepage, while still gaining a clear understanding of the site's purpose. To do this, I changed the interface of the homepage to feature these "navigation bubbles." The color of these bubbles immediately draws attention, the shape of them is arguably "more fun", and they are highly interactive elements through which the user can discover what information is avaible on the website.
 
-###### (Second Iteration)
+I also conducted a **cognitive walkthrough** of this version in class to assess my use of interaction elements and the user flow. For the most part, users could figure out where to go next and found the progression of screens to be logical and clear. However, my classmates did voice that they were uncertain of what information would be contatined within each navigation tab on the homepage. To address this, I implemented an interaction in the second iteration of my design which allows the user the hover over each navigation tab to reveal which subpages are contained within each. 
+
+The notes from the **impression test** and the **cognitive walkthrough** can be found [here](https://github.com/aveds/DH150-2020S/blob/master/assignment07/walk1.pdf).
+
+#### Second iteration
+
+##### Task 1: Reserve a study room 
 
 ![task1_2](./task1.png)
 
-#### Task 2: Find a book on real estate and check its availability
+##### Task 2: Find a book on real estate and check its availability
 
 ![task2](./task2.png)
 
-#### Task 3: Find out information on computer courses the library offers
+##### Task 3: Find out information on computer courses the library offers
 
 ![task3](./task3.png)
 
@@ -56,7 +62,5 @@ I downloaded the plugin "Stark" on Figma to check the contrast of the colors I u
 ### 06 Interactive Prototype
 
 Please find the interactive high-fidelity prototype [here](https://www.figma.com/proto/2Bw3EIBSk91l5JgEPDeJ8L/DH150-prototype2.0?node-id=1%3A17&scaling=min-zoom).
-
-### 07 Cognitive Walkthrough
 
 ### 08 Reflection
