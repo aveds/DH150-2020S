@@ -50,8 +50,9 @@ I downloaded the plugin "Stark" on Figma to check the contrast of the colors I u
 
 ![smpltTitle](./smpl.png) <img src="https://github.com/aveds/DH150-2020S/blob/master/assignment07/check2.png" height = "350">
 
-![text](./text.png) <img src="https://github.com/aveds/DH150-2020S/blob/master/assignment07/check3.png" height = "350">
+<img src="https://github.com/aveds/DH150-2020S/blob/master/assignment07/text.png" width = "200"> <img src="https://github.com/aveds/DH150-2020S/blob/master/assignment07/check3.png" height = "350">
 
+https://github.com/aveds/DH150-2020S/blob/master/assignment07/text.png
 ### 06 Interactive Prototype
 [link to interactive prototype]
 
