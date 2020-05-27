@@ -46,7 +46,7 @@ The current library website uses too many colors (>5 colors) in its color scheme
 
 I downloaded the plugin "Stark" on Figma to check the contrast of the colors I used. Below are screenshots of the main background-foreground color combinations and their associated color-contrast evaluation.
 
-![circleElement](./services.png) <img src="https://github.com/aveds/DH150-2020S/blob/master/assignment07/check1.png" height = "350">
+<img src="https://github.com/aveds/DH150-2020S/blob/master/assignment07/services.png" width = "450"> <img src="https://github.com/aveds/DH150-2020S/blob/master/assignment07/check1.png" height = "350">
 
 ![smpltTitle](./smpl.png) <img src="https://github.com/aveds/DH150-2020S/blob/master/assignment07/check2.png" height = "350">
 
