@@ -18,21 +18,23 @@ The tasks this high-fidelity prototype supports are:
 
 Below are the wireframes created to complete each task.
 
-##### Task 1: Reserve a study room 
+#### Task 1: Reserve a study room 
 
-1. First Iteration
+###### (First Iteration)
+
+![task1_1](./first.png)
 
 This is the first iteration of my design for the library website. Personally, I didn't entirely like the color scheme I used in this first verison and ended up changing the color scheme to make it simpler, including more neutral dominant colors (white and grey) and only one accent color (periwinkle). In class, I conducted an **impression test** on this first version, in which my classmates provided their initial thoughts when viewing these wireframes. The first comment I received was that the wireframes certainly look like a library website. This is a good thing: it is clear what one should expect when viewing the site. However, I wanted to make my library website a bit more exciting, especially when it came to the homepage as this is the first screen users interact with. I wanted users to be more intrigued/impressed by the homepage, while still gaining a clear understanding of the site's purpose. To do this, I changed the interface of the homepage to feature these "navigation bubbles." The color of these bubbles immediately draws attention, the shape of them is arguably "more fun", and they are a highly interactive for which the user can discover what information is avaible on the website.
 
-2. Second Iteration
+###### (Second Iteration)
 
-![task1](./task1.png)
+![task1_2](./task1.png)
 
-##### Task 2: Find a book on real estate and check its availability
+#### Task 2: Find a book on real estate and check its availability
 
 ![task2](./task2.png)
 
-##### Task 3: Find out information on computer courses the library offers
+#### Task 3: Find out information on computer courses the library offers
 
 ![task3](./task3.png)
 
