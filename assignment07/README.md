@@ -24,7 +24,7 @@ Below are the wireframes created to complete each task.
 
 ![task1_1](./first.png)
 
-This is the first iteration of my design for the library website. Personally, I didn't entirely like the color scheme I used in this first verison and ended up changing the color scheme to make it simpler, including more neutral dominant colors (white and grey) and only one accent color (periwinkle). In class, I conducted an **impression test** on this first version, in which my classmates provided their initial thoughts when viewing these wireframes. The first comment I received was that the wireframes certainly look like a library website. This is a good thing: it is clear what one should expect when viewing the site. However, I wanted to make my library website a bit more exciting, especially when it came to the homepage as this is the first screen users interact with. I wanted users to be more intrigued/impressed by the homepage, while still gaining a clear understanding of the site's purpose. To do this, I changed the interface of the homepage to feature these "navigation bubbles." The color of these bubbles immediately draws attention, the shape of them is arguably "more fun", and they are a highly interactive for which the user can discover what information is avaible on the website.
+This is the first iteration of my design for the library website. Personally, I didn't entirely like the color scheme I used in this first version and ended up changing the color scheme to make it simpler, including more neutral dominant colors (white and grey) and only one accent color (periwinkle). In class, I conducted an **impression test** on this first version, in which my classmates provided their initial thoughts when viewing these wireframes. The first comment I received was that the wireframes certainly look like a library website. This is a good thing: it is clear what one should expect when viewing the site. However, I wanted to make my library website a bit more exciting, especially when it came to the homepage as this is the first screen users interact with. I wanted users to be more intrigued/impressed by the homepage, while still gaining a clear understanding of the site's purpose. To do this, I changed the interface of the homepage to feature these "navigation bubbles." The color of these bubbles immediately draws attention, the shape of them is arguably "more fun", and they are highly interactive elements through which the user can discover what information is avaible on the website.
 
 ###### (Second Iteration)
 
@@ -43,6 +43,10 @@ This is the first iteration of my design for the library website. Personally, I 
 The current library website uses too many colors (>5 colors) in its color scheme, which can make it difficult for the user to assess where to direct their attention. Becuse of this, I wanted to completely counter the current color scheme and to develop a much simpler one. The color scheme I have chosen for my final design consists of three colors: white, grey, and periwinkle. With the intent of simplicity, I wanted to include white and grey as they are neutral, very user-friendly colors. A website simply in white and grey, however, can bore the user and can have the same effect as the use of too many colors does; there is no distinct emphasis on different interface elements. To add character to the website and to emphasize important interface elements, I additionally included periwinkle in the color scheme. I chose this color because it is a sophisticated variation of blue, which seems fitting as Santa Monica is a coastal city. 
 
 ### 05 Accessibility (color-contrast) check
+
+I downloaded the plugin "Stark" on Figma to check the contrast of the colors I used. Below are screenshots of the main background-foreground color combinations and their associated color-contrast evaluation.
+
+
 
 ### 06 Interactive Prototype
 [link to interactive prototype]
