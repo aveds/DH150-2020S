@@ -63,4 +63,11 @@ I downloaded the plugin "Stark" on Figma to check the contrast of the colors I u
 
 Please find the interactive high-fidelity prototype [here](https://www.figma.com/proto/2Bw3EIBSk91l5JgEPDeJ8L/DH150-prototype2.0?node-id=1%3A17&scaling=min-zoom).
 
-### 08 Reflection
+### 07 Reflection
+
+Overall, I thought the process of creating a high-fidelity prototype went quite smoothly. There was definitely a learning curve for how to use Figma's features most efficiently, especially when it came to creating components and iterating features over multiple frames. For future reference, I now know the importance of carefully labelling and grouping elements within each frame to create organized and easily accessible layers. Also, when I created this high-fidelity prototype, I created all the wireframes first, and then went back and added the interactions and flows. This got a bit confusing, especially when working with a large amount of frames. It also created more work for me because many interactions are repeated in multiple frames, such as the navigation bar, and so it would have been simpler to create a component with the assigned interaction and then copy + pasted to create the new frame.
+
+Based on the feedback I got, the biggest user-issue with library websites is finding out/knowing where certain information is located. To address this, I would probably reorganize the navigation tabs and their subpages and would add some sort of interaction feature which provides a transparent look into what each page/subpage contains. 
+
+
+
