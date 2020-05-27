@@ -16,9 +16,9 @@ The tasks this high-fidelity prototype supports are:
 
 ### 03 Wireflows
 
-Below are the wireframes created to complete each task.
+Below are the wireframes created to complete each task. 
 
-#### First iteration
+#### — First iteration
 
 ##### Task 1: Reserve a study room
 
@@ -30,7 +30,7 @@ I also conducted a **cognitive walkthrough** of this version in class to assess 
 
 The notes from the **impression test** and the **cognitive walkthrough** can be found [here](https://github.com/aveds/DH150-2020S/blob/master/assignment07/walk1.pdf).
 
-#### Second iteration
+#### — Second iteration
 
 ##### Task 1: Reserve a study room 
 
