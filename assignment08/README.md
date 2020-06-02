@@ -3,7 +3,7 @@
 
 ### Introduction: 
 
-This project focuses on a human-centered redesign of the Santa Monica Public Library website. Working within a given project theme of "public", I chose to redesign a library website because libraries have been a great resource to many, including myself. They provide the community greatly with information, services, and technology, whether it be for recreational or educational purposes. Because libraries have such a wide-ranging user group, it is important that their website design is clear and logical. This is what I will reflect within my redesign of the Santa Monica Public Library (SMPLE) website, a public library I have frequented while living in Los Angeles.
+This project focuses on a human-centered redesign of the Santa Monica Public Library website. Working within a given project theme of "public", I chose to redesign a library website because libraries have been a great resource to many, including myself. They provide the community greatly with information, services, and technology, whether it be for recreational or educational purposes. Because libraries have such a wide-ranging user group, it is important that their website design is clear and logical. This is what I will reflect within my redesign of the Santa Monica Public Library (SMPL) website, a public library I have frequented while living in Los Angeles.
 
 ### Design statement: 
 
