@@ -43,7 +43,7 @@ The purpose of this low-fidelity prototype is to translate the concepts I have f
 
 ### High-fidelity prototype:
 
-The purpose of this project is to develop a human-centered redesign of the Santa Monica Public Library website. Based on my findings from a heuristic evaluation and from user research of the current library website, I have drafted my own design. The high-fidelity prototype allows me to tangibly realize my designs, as well as serves as a preliminary mock-up which users can more realistically interact with. I can then test my website design with real users, evaluating all possible aspects, inlcuding interactions, user flows, and color schemes.
+Based on my findings from a heuristic evaluation and from user research of the current library website, I have drafted my own design. The high-fidelity prototype allows me to tangibly realize my designs, as well as serves as a preliminary mock-up which users can more realistically interact with. I can then test my website design with real users, evaluating all possible aspects, inlcuding interactions, user flows, and color schemes.
 
 [Read more>>](https://github.com/aveds/DH150-2020S/blob/master/assignment07/README.md)
 
